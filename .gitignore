@@ -1,0 +1,28 @@
+# 忽略特定编译/生成文件
+*.bak
+*.ddk
+*.edk
+*.lst
+*.lnp
+*.mpf
+*.mpj
+*.obj
+*.omf
+# *.opt       被注释保留（不允许删除JLINK的设置）
+*.plg
+*.rpt
+*.tmp
+*.__i
+*.crf
+*.o
+*.d
+*.axf
+*.tra
+*.dep
+JLinkLog.txt
+
+# 其他忽略规则
+*.iex
+*.htm
+# *.sct      被注释保留
+*.map
